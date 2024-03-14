@@ -4,7 +4,7 @@
 
 In this project, I developed an object detector based on gradient features and sliding window classification. 
 
-see ***ObjectDetection.ipynb*** for code
+see ***4_detection.ipynb*** for code
 
 # Part 1 - Image Gradients
 
